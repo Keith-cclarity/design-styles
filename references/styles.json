@@ -1,0 +1,452 @@
+[
+  {
+    "n": 1,
+    "name": "Neoclassical",
+    "slug": "neoclassical",
+    "desc": "Neoclassical design is rooted in the grandeur of classical antiquity. It revives Greco-Roman ideals like order, symmetry, and refined elegance. Often used in architecture and interiors, it\u2019s now echoed in UI and brand design to communicate tradition and authority.",
+    "core": "Serif fonts, columns, laurel wreaths, marble textures, gold accents, symmetry, muted palettes.",
+    "mood": "Formal, timeless, noble. Ideal for luxury brands, museums, heritage products, or academic publications.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*k1t015KDXp45iwzb7rrD6w.png"
+  },
+  {
+    "n": 2,
+    "name": "Baroque",
+    "slug": "baroque",
+    "desc": "Baroque design is opulent, emotional, and dramatic. Emerging from 17th-century Europe, it thrives on excess \u2014 ornamentation, grandeur, and a theatrical sense of movement. In digital design, it shows up in highly decorative interfaces or dramatic visuals meant to awe.",
+    "core": "Flourishes, deep shadows, gold leaf, religious or mythological motifs, rich textiles, high contrast.",
+    "mood": "Regal, ornate, celebratory. Works well for event invitations, premium packaging, or lavish editorial designs.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*uEYZzXF5O9l9huDmoxsHNQ.png"
+  },
+  {
+    "n": 3,
+    "name": "Aurora",
+    "slug": "aurora",
+    "desc": "Inspired by the northern lights, Aurora style features flowing, iridescent gradients and dreamy abstractions. It\u2019s futuristic yet soft, often used in ambient digital designs or cosmic brand visuals. It reflects a sense of wonder and fluid motion.",
+    "core": "Iridescent gradients, blur effects, soft glows, translucent overlays, organic wave forms.",
+    "mood": "Dreamy, futuristic, meditative. Suitable for wellness apps, tech product launches, or spiritual themes.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*UxV_n0HmNpvBPfM68mdieA.png"
+  },
+  {
+    "n": 4,
+    "name": "Ethereal",
+    "slug": "ethereal",
+    "desc": "Ethereal design captures delicacy and transcendence. It feels weightless and otherworldly \u2014 like a design made of mist or light. This style emphasizes openness, airiness, and subtle beauty, often with soft pastels and faint textures.",
+    "core": "Light pastels, gauzy overlays, minimal serif fonts, low contrast, feathered shadows.",
+    "mood": "Calm, mystical, romantic. Works beautifully for spiritual brands, high fashion, or mindfulness interfaces.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*ta2vQckMnfs7l05oc2d_NA.png"
+  },
+  {
+    "n": 5,
+    "name": "Filigree",
+    "slug": "filigree",
+    "desc": "Filigree is a decorative art style characterized by intricate and delicate ornamentation \u2014 usually in gold or silver. In design, it translates to fine linework, lacy embellishments, and regal patterns that add an old-world luxury appeal.",
+    "core": "Delicate line patterns, metallic inks, curves, lace textures, monogram fonts.",
+    "mood": "Luxurious, vintage, ceremonial. Perfect for heritage branding, editorial layouts, or luxury packaging.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*s38hZiFuA5mKsCiRWFBupg.png"
+  },
+  {
+    "n": 6,
+    "name": "Acanthus",
+    "slug": "acanthus",
+    "desc": "The Acanthus style is rooted in classical architectural ornamentation, inspired by the acanthus plant\u2019s foliage. Commonly seen in Corinthian columns and decorative arts, it symbolizes endurance and elegance. In design, it\u2019s used for adding a natural yet regal decorative flourish.",
+    "core": "Leaf motifs, flowing curves, symmetrical vines, stone textures, natural greens and golds.",
+    "mood": "Regal, organic, classical. Suitable for wedding invites, art museum branding, or premium product design.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*Wv3vjM0btR4DcvswArRLYg.png"
+  },
+  {
+    "n": 7,
+    "name": "Anthropomorphic",
+    "slug": "anthropomorphic",
+    "desc": "Anthropomorphic design gives human traits to non-human forms \u2014 objects, animals, or even UI elements. It adds playfulness and relatability, helping users emotionally connect with the design. Often used in mascots, illustrations, and storytelling interfaces.",
+    "core": "Expressive eyes, limbs on objects, character-based icons, rounded friendly shapes.",
+    "mood": "Fun, quirky, friendly. Great for children\u2019s products, gamified UX, or approachable branding.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*EJeuFFiZN-RBI0cVymULIw.png"
+  },
+  {
+    "n": 8,
+    "name": "Pixel Art",
+    "slug": "pixel-art",
+    "desc": "Pixel Art is a nostalgic style that harks back to early computer and video game graphics. Each image is built with visible pixels, creating a retro yet playful aesthetic. It\u2019s highly stylized and instantly communicates a love for the analog digital era.",
+    "core": "Grid-based visuals, low-res icons, limited color palettes, 8-bit/16-bit look.",
+    "mood": "Nostalgic, geeky, fun. Ideal for indie games, retro-themed events, or creative portfolios.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*rEzNQP5u59qs7-XnDLhN-w.png"
+  },
+  {
+    "n": 9,
+    "name": "Conceptual Sketch",
+    "slug": "conceptual-sketch",
+    "desc": "This style mimics rough hand-drawn sketches, often used in ideation or artistic branding. It emphasizes spontaneity and imagination over polish. It gives a behind-the-scenes, raw creative feel.",
+    "core": "Pencil/ink lines, crosshatching, greyscale tones, annotations, sketch paper texture.",
+    "mood": "Experimental, informal, idea-driven. Works well for portfolios, design journals, or brainstorming tools.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*aSt7lvokcQha1FjG7F7HsA.png"
+  },
+  {
+    "n": 10,
+    "name": "Luxury Typography",
+    "slug": "luxury-typography",
+    "desc": "Luxury Typography relies on refined letterforms to exude elegance and class. It often pairs minimalist layout with expressive serif fonts or custom logotypes, allowing typography alone to carry the brand identity.",
+    "core": "Serif fonts, high letter spacing, gold foil, monochrome palettes, bespoke ligatures.",
+    "mood": "Elegant, elite, timeless. Best for luxury fashion, beauty brands, or high-end editorial design.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*42WMcAXoLy5yuDx6eczBZQ.png"
+  },
+  {
+    "n": 11,
+    "name": "Japandi",
+    "slug": "japandi",
+    "desc": "Japandi fuses Japanese minimalism with Scandinavian functionality. It focuses on simplicity, craftsmanship, and nature-inspired serenity. In UI, it translates into calm, decluttered interfaces with neutral tones and soft curves.",
+    "core": "Light woods, beige/gray palettes, clean sans-serif fonts, minimal icons, natural materials.",
+    "mood": "Calm, peaceful, intentional. Ideal for lifestyle brands, home decor, or meditation and wellness apps.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*9P9bOBn5OecNi3hf7L1ItQ.png"
+  },
+  {
+    "n": 12,
+    "name": "Memphis",
+    "slug": "memphis",
+    "desc": "Memphis design is bold, loud, and unapologetically fun. Originating in the 1980s, it throws rules out the window with geometric shapes, high contrast colors, and abstract patterns. It\u2019s playful, rebellious, and full of attitude.",
+    "core": "Squiggles, bright primaries, grids, clashing colors, block shapes, cartoonish motifs.",
+    "mood": "Youthful, quirky, anti-establishment. Great for creative brands, event posters, or retro fashion.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*9GhGsesbTAgI-PjZ6EDBTg.png"
+  },
+  {
+    "n": 13,
+    "name": "Bohemian",
+    "slug": "bohemian",
+    "desc": "Bohemian design embraces artistic freedom and earthy charm. It\u2019s eclectic, globally inspired, and layered with patterns, textiles, and natural elements. In digital spaces, it evokes free-spirited lifestyles and wanderlust.",
+    "core": "Rich textures, mandalas, jewel tones, ethnic prints, script fonts, organic materials.",
+    "mood": "Free, soulful, eclectic. Ideal for handmade products, travel brands, or artisanal markets.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*V5Y7XjLsDoGGRw1-6MBiJw.png"
+  },
+  {
+    "n": 14,
+    "name": "Shabby Chic",
+    "slug": "shabby-chic",
+    "desc": "Shabby Chic combines vintage charm with feminine elegance. It often showcases distressed finishes, florals, and pastel tones. The aesthetic is lived-in yet curated, offering soft nostalgia.",
+    "core": "Whitewashed textures, faded florals, cursive typography, lace, soft pinks and blues.",
+    "mood": "Romantic, cozy, nostalgic. Common in weddings, vintage boutiques, and home decor.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*BnYQjwg5Cmedw2kf0hGqkA.png"
+  },
+  {
+    "n": 15,
+    "name": "Farmhouse / Cottagecore",
+    "slug": "farmhouse-cottagecore",
+    "desc": "Cottagecore is a romanticization of rural life, rooted in simplicity, nature, and slow living. It often uses handmade textures and vintage rural motifs. Farmhouse adds a more rustic, American countryside twist.",
+    "core": "Florals, gingham, wood textures, antique finishes, serif or hand-drawn type.",
+    "mood": "Cozy, nostalgic, wholesome. Perfect for lifestyle blogs, recipe sites, or rustic home brands.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*-2PAffHn1ABeGuGwSUiWxA.png"
+  },
+  {
+    "n": 16,
+    "name": "Victorian",
+    "slug": "victorian",
+    "desc": "Victorian design is grand, elaborate, and deeply ornate, stemming from the aesthetics of the 19th-century British monarchy. It reflects wealth, refinement, and a love for detail \u2014 often used today for vintage or historical storytelling.",
+    "core": "Ornate serif fonts, damask patterns, deep reds and greens, gilded frames, heavy florals.",
+    "mood": "Opulent, historical, romantic. Ideal for book covers, tea brands, vintage fashion, or museum events.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*hBNX948eYbHpf0gN6ey4vQ.png"
+  },
+  {
+    "n": 17,
+    "name": "Art Deco",
+    "slug": "art-deco",
+    "desc": "Art Deco is sleek, geometric, and sophisticated, born from the glamour of the 1920s. It combines streamlined modernism with luxurious materials and symmetrical patterns. It\u2019s both nostalgic and aspirational.",
+    "core": "Gold accents, sunbursts, symmetry, angular shapes, rich jewel tones, sans-serifs with flair.",
+    "mood": "Glamorous, upscale, jazzy. Perfect for luxury brands, cocktail events, or retro-modern interfaces.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*GwFi-NcfsrbDz82gh5rq5A.png"
+  },
+  {
+    "n": 18,
+    "name": "Art Nouveau",
+    "slug": "art-nouveau",
+    "desc": "Art Nouveau is nature-inspired, fluid, and highly decorative. It celebrates organic forms \u2014 especially floral and botanical \u2014 and appears elegant and expressive. Common in poster design and decorative illustration.",
+    "core": "Curving lines, floral motifs, hand-lettered type, earthy palettes, stained glass patterns.",
+    "mood": "Romantic, poetic, organic. Best for artistic brands, natural cosmetics, or artisan packaging.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*Q2WpCgvg4HeFEZC__64C0A.png"
+  },
+  {
+    "n": 19,
+    "name": "Mystical Western",
+    "slug": "mystical-western",
+    "desc": "A fantasy fusion of cowboy westerns and occult mysticism, this style blends desert iconography with celestial symbols. It\u2019s rugged yet spiritual \u2014 a trending aesthetic across indie brands and metaphysical themes.",
+    "core": "Tarot symbols, cacti, western serif fonts, sun/moon motifs, earthy tones, leather textures.",
+    "mood": "Mystical, rugged, folklore-driven. Great for crystal shops, tarot apps, or moody music visuals.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*lDmez9zOXqINXWB69buokQ.png"
+  },
+  {
+    "n": 20,
+    "name": "Kitsch",
+    "slug": "kitsch",
+    "desc": "Kitsch embraces \u201cbad taste\u201d in an ironic, humorous way. It uses exaggerated or sentimental visuals from pop culture, often leaning into over-the-top patterns and saturated palettes.",
+    "core": "Clashing prints, outdated fonts, shiny plastic textures, retro advertising visuals, excess.",
+    "mood": "Campy, fun, ironic. Ideal for parody work, Gen Z fashion, or nostalgic remixes.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*5FRf7SYTG7qzvxDL87GT5A.png"
+  },
+  {
+    "n": 21,
+    "name": "Y2K",
+    "slug": "y2k",
+    "desc": "The Y2K aesthetic is inspired by late 1990s and early 2000s tech culture. It mixes cyber-futurism with millennial pop culture \u2014 think metallics, gradients, and digital gloss.",
+    "core": "Chrome textures, pixel fonts, metallic finishes, iridescent gradients, matrix grids.",
+    "mood": "Futuristic, nostalgic, edgy. Best for fashion branding, tech revival themes, or throwback interfaces.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*nJjV1gzAE3QICYjN6pD5aw.png"
+  },
+  {
+    "n": 22,
+    "name": "Bauhaus",
+    "slug": "bauhaus",
+    "desc": "Bauhaus is functional, geometric, and minimal. Rooted in the German design school of the 1920s, it favors \u201cform follows function\u201d and uses basic shapes and primary colors. It\u2019s the birth of modernist design.",
+    "core": "Grid systems, sans-serif fonts, red-blue-yellow palette, circles/triangles/squares, minimal text.",
+    "mood": "Rational, structured, modern. Great for architecture, product design, and clean brand systems.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*S8Y9XzSmHa5z4s16lCv4-w.png"
+  },
+  {
+    "n": 23,
+    "name": "Brutalism",
+    "slug": "brutalism",
+    "desc": "Brutalism in design is raw, bold, and purposefully unrefined. Borrowed from architecture, it rejects polish for stark functionality and visual honesty. In digital, it breaks UI norms to stand out.",
+    "core": "Monospaced fonts, grayscale palettes, harsh edges, solid blocks, default buttons.",
+    "mood": "Bold, disruptive, honest. Ideal for artist portfolios, experimental interfaces, or counterculture brands.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*qf7OAYNj7D4aOrUKZyrmnA.png"
+  },
+  {
+    "n": 24,
+    "name": "Cybercore",
+    "slug": "cybercore",
+    "desc": "Cybercore is a high-tech, hyper-modern style drawing from hacker aesthetics, sci-fi, and the underground internet. It\u2019s visually complex and packed with futuristic iconography.",
+    "core": "Neon lights, glitch effects, code patterns, green/black themes, tech symbology.",
+    "mood": "Futuristic, chaotic, dystopian. Great for tech events, hacking culture, or gaming visuals.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*naW_8-_2BqaIS5GGDSMB3A.png"
+  },
+  {
+    "n": 25,
+    "name": "Synthwave",
+    "slug": "synthwave",
+    "desc": "Synthwave is a retro-futuristic style inspired by 1980s sci-fi and synth music. It romanticizes a neon-lit future from a past era. Think \u201cTron\u201d meets \u201cBlade Runner\u201d with a pink-purple glow.",
+    "core": "Grid horizons, VHS textures, neon gradients, 3D chrome type, purple and cyan palettes.",
+    "mood": "Retro-futuristic, vibrant, dreamy. Ideal for music visuals, arcade interfaces, or nostalgia apps.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*Rj8SqwCD7PXlaBWYfojPPw.png"
+  },
+  {
+    "n": 26,
+    "name": "Vaporwave",
+    "slug": "vaporwave",
+    "desc": "Vaporwave is a surreal, satirical style that critiques consumerism while celebrating 80s/90s nostalgia. It mixes classical statues with glitch art, Japanese characters, and retro software interfaces to create dreamlike visuals.",
+    "core": "Pastel pinks and purples, VHS glitch, Greek busts, MS Paint elements, Japanese text, lo-fi textures.",
+    "mood": "Ironic, dreamy, nostalgic. Ideal for indie music, visual art zines, or anti-establishment design.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*siu7RvIYDCZK-dPGIahjEA.png"
+  },
+  {
+    "n": 27,
+    "name": "Pop Art",
+    "slug": "pop-art",
+    "desc": "Pop Art draws inspiration from mass media, advertising, and comic books. It\u2019s bold, colorful, and meant to grab attention. Originating in the 1950s-60s, it blurs the line between high art and popular culture.",
+    "core": "Ben-Day dots, bold outlines, primary colors, comic sans or display fonts, speech bubbles.",
+    "mood": "Loud, fun, energetic. Great for pop culture campaigns, retail packaging, or fashion visuals.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*kWtyTXv40D_YkGG_NDtqug.png"
+  },
+  {
+    "n": 28,
+    "name": "Bento Box",
+    "slug": "bento-box",
+    "desc": "Bento UI is a trend in interface design that presents content in neatly organized, block-like sections \u2014 like compartments in a bento box. It makes complex layouts feel digestible and modern.",
+    "core": "Rounded modular blocks, subtle shadows, icons with labels, micro-animations, neutral palettes.",
+    "mood": "Organized, friendly, clean. Ideal for dashboards, portfolios, or productivity tools.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*kbKkWXndZp0p1hNfey1zcQ.png"
+  },
+  {
+    "n": 29,
+    "name": "Graffiti",
+    "slug": "graffiti",
+    "desc": "Graffiti design is rebellious, raw, and rooted in street culture. It\u2019s loud and expressive, often using urban textures and hand-painted type. It conveys energy and social voice.",
+    "core": "Spray paint textures, dripping letters, concrete backgrounds, neon colors, freestyle typography.",
+    "mood": "Urban, defiant, expressive. Best for streetwear brands, music festivals, or youth-centric campaigns.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*LZCZ0juJHhhURNHKPddlrg.png"
+  },
+  {
+    "n": 30,
+    "name": "Tenebrism",
+    "slug": "tenebrism",
+    "desc": "Tenebrism is a painting technique that uses dramatic lighting and intense contrasts between light and dark. In visual design, it creates depth, drama, and emotional weight.",
+    "core": "High contrast chiaroscuro, black backgrounds, spotlighting, oil textures.",
+    "mood": "Intense, emotional, moody. Ideal for gothic art, storytelling visuals, or cinematic posters.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*KWvAy2WB2doKlF1m7wLBbQ.png"
+  },
+  {
+    "n": 31,
+    "name": "Gothic",
+    "slug": "gothic",
+    "desc": "Gothic design is rooted in medieval architecture and dark romanticism. It\u2019s characterized by pointed arches, dark color palettes, and ornate lettering. It evokes mystery and spiritual depth.",
+    "core": "Blackletter fonts, stained glass textures, stone motifs, deep purples and blacks.",
+    "mood": "Dark, dramatic, historic. Perfect for fantasy book covers, music posters, or alternative fashion.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*GO74m3-RY53ZZ8BgGzSgPg.png"
+  },
+  {
+    "n": 32,
+    "name": "Pointillism",
+    "slug": "pointillism",
+    "desc": "Pointillism is a painting technique using small dots of color to form an image. In design, it brings texture, detail, and a sense of movement or grain.",
+    "core": "Dot clusters, optical mixing, pastel or impressionist palettes, fade transitions.",
+    "mood": "Artistic, textured, tranquil. Great for fine art branding, creative editorials, or educational content.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*RVOqP4oRboZkcDzxbpwb2g.png"
+  },
+  {
+    "n": 33,
+    "name": "Mixed Media",
+    "slug": "mixed-media",
+    "desc": "Mixed Media blends multiple visual styles and techniques \u2014 photography, illustration, textures \u2014 into one cohesive piece. It adds layers and depth, often evoking experimental or tactile storytelling.",
+    "core": "Cutouts, overlays, analog + digital collage, hand-drawn + photo elements, paper textures.",
+    "mood": "Eclectic, expressive, avant-garde. Ideal for magazines, experimental branding, or art education.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*YnsCRlK6L-pnRW56ulhDoA.png"
+  },
+  {
+    "n": 34,
+    "name": "Steampunk",
+    "slug": "steampunk",
+    "desc": "Steampunk fuses Victorian aesthetics with industrial-age machinery and sci-fi fantasy. It celebrates retro-futurism, with gears, brass, and corsets \u2014 all stylized in a mechanical world.",
+    "core": "Copper tones, cogwheels, leather, top hats, serif type, steam and smoke motifs.",
+    "mood": "Adventurous, vintage-futuristic, imaginative. Works well for games, books, or cosplay-related visuals.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*SGCmdHD416ZInzUq2QKXxw.png"
+  },
+  {
+    "n": 35,
+    "name": "Kawaii",
+    "slug": "kawaii",
+    "desc": "Kawaii is the Japanese culture of cuteness. It\u2019s childlike, cheerful, and full of charm. Designs often feature adorable characters with simple features, soft colors, and positive vibes.",
+    "core": "Pastel colors, rounded icons, baby faces, blushing cheeks, handwritten type.",
+    "mood": "Sweet, innocent, joyful. Great for stationery, kids\u2019 products, and whimsical branding.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*fuMP65hHlwRzPKdP9b0IuA.png"
+  },
+  {
+    "n": 36,
+    "name": "Coquette",
+    "slug": "coquette",
+    "desc": "Coquette design is ultra-feminine and flirty with vintage undertones. It draws from early 2000s romantic aesthetics \u2014 think lace, bows, soft filters, and love letters.",
+    "core": "Baby pinks, pearls, ribbon motifs, dainty serif fonts, heart shapes.",
+    "mood": "Delicate, girly, nostalgic. Ideal for beauty brands, fashion reels, or romantic lifestyle blogs.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*5eKIhEOwj9dW9Mw1dWGkJw.png"
+  },
+  {
+    "n": 37,
+    "name": "Surrealism",
+    "slug": "surrealism",
+    "desc": "Surrealism breaks the boundaries of logic and realism. It thrives on dreamlike juxtapositions, abstract logic, and fantastical elements that challenge the viewer\u2019s sense of reality.",
+    "core": "Collage, disjointed objects, melting forms, metaphors, unexpected scale.",
+    "mood": "Dreamy, unsettling, thought-provoking. Best for concept art, experimental visuals, or literary design.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*pqgyDSiJ1BX7DzIUWiyzkg.png"
+  },
+  {
+    "n": 38,
+    "name": "Utilitarian",
+    "slug": "utilitarian",
+    "desc": "Utilitarian design is function-first, clean, and direct. It prioritizes clarity over aesthetics and often has a rugged, military-industrial feel.",
+    "core": "Grid layout, monospaced or industrial fonts, muted tones, absence of decoration.",
+    "mood": "Practical, minimal, efficient. Used in manuals, signage, utility apps, and technical interfaces.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*HNjciQGEQdfkA1WP5a6iHw.png"
+  },
+  {
+    "n": 39,
+    "name": "Mid-Century",
+    "slug": "mid-century",
+    "desc": "Mid-Century design is inspired by the 1940s\u201360s, emphasizing form, function, and organic simplicity. It blends bold geometry with warm textures and modern optimism.",
+    "core": "Clean lines, retro colors, boomerangs, mod patterns, sans-serif fonts.",
+    "mood": "Nostalgic, modernist, optimistic. Great for furniture branding, lifestyle blogs, or editorial layouts.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*e4ZxrtMLMzB_RzrlBlY3kA.png"
+  },
+  {
+    "n": 40,
+    "name": "Scrapbook",
+    "slug": "scrapbook",
+    "desc": "Scrapbook design mimics the handmade feel of collaging memories. It\u2019s personal, layered, and nostalgic, using tape, torn edges, and handwritten notes.",
+    "core": "Paper textures, washi tape, Polaroid frames, hand lettering, stickers.",
+    "mood": "Sentimental, warm, nostalgic. Ideal for journaling apps, memory branding, or school projects.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*t0QFQdSUtYxARSJYsxXA2Q.png"
+  },
+  {
+    "n": 41,
+    "name": "Neo Frutiger Aero",
+    "slug": "neo-frutiger-aero",
+    "desc": "This is a Y2K revival sub-style mixing glossy UI elements, rounded sans-serifs like Frutiger, and bubble-like gradients. It\u2019s clean, futuristic, and retro at once.",
+    "core": "Aqua blues, semi-transparent bubbles, gloss overlays, friendly icons, rounded UI.",
+    "mood": "Futuristic, nostalgic, clean. Perfect for tech, playful fintech, or Web3 brands.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*zMwb_Ko4Cm-epVrG5pCYlQ.png"
+  },
+  {
+    "n": 42,
+    "name": "Dark Magic Academia",
+    "slug": "dark-magic-academia",
+    "desc": "This style blends gothic academia with mysticism \u2014 like Harry Potter meets occult. It\u2019s dark, intellectual, and full of symbolism.",
+    "core": "Candles, spellbooks, antique etchings, black/gold palette, serif calligraphy.",
+    "mood": "Mysterious, scholarly, magical. Great for fantasy games, book clubs, or witchy brands.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*L6K3gpPQTOZfA5dMF0yEwQ.png"
+  },
+  {
+    "n": 43,
+    "name": "Light Academia",
+    "slug": "light-academia",
+    "desc": "Light Academia is soft, poetic, and classical. It\u2019s like walking through a European library in summer. It romanticizes knowledge, literature, and aesthetics.",
+    "core": "Creamy neutrals, serif fonts, books, sunlight, linen textures.",
+    "mood": "Scholarly, calm, refined. Works for journals, study apps, or aesthetic fashion.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*jNHM6js6YXamgCIXiGudCA.png"
+  },
+  {
+    "n": 44,
+    "name": "Wabi Sabi",
+    "slug": "wabi-sabi",
+    "desc": "Wabi Sabi is a Japanese philosophy of embracing imperfection and impermanence. It values natural textures, asymmetry, and subtle beauty.",
+    "core": "Earthy tones, rough pottery textures, natural light, organic forms, minimal sans-serif.",
+    "mood": "Humble, calm, contemplative. Ideal for wellness brands, tea packaging, or mindful interfaces.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*5jift7Opn3NWJ56KI176bw.png"
+  },
+  {
+    "n": 45,
+    "name": "South West / Wild West",
+    "slug": "south-west-wild-west",
+    "desc": "This style captures American desert landscapes, cowboy culture, and Native American influences. It\u2019s warm, rugged, and rooted in heritage.",
+    "core": "Terracotta, cacti, denim textures, cowboy boots, serif western fonts.",
+    "mood": "Rugged, adventurous, nostalgic. Best for ranch brands, outdoor gear, or festival posters.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*BMyN7Ev6v8q4Xyn8p_kmWQ.png"
+  },
+  {
+    "n": 46,
+    "name": "Nautical",
+    "slug": "nautical",
+    "desc": "Nautical design is inspired by sea life, ships, and coastal living. It\u2019s fresh and orderly, with classic maritime elements and a palette drawn from ocean and sand.",
+    "core": "Navy and white, anchors, ropes, stripes, brass, serif or stencil fonts.",
+    "mood": "Fresh, structured, maritime. Perfect for seafood brands, beach resorts, or summer campaigns.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*Gh5cuIGOTQTfPtfSqvtedg.png"
+  },
+  {
+    "n": 47,
+    "name": "Rebus",
+    "slug": "rebus",
+    "desc": "Rebus design communicates through symbols or images representing sounds or words. It\u2019s clever and interactive, often used for puzzles or branding.",
+    "core": "Pictograms, visual puns, image-type hybrids, clean layouts.",
+    "mood": "Witty, playful, intellectual. Works great for educational design, puzzles, or brand storytelling.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*Ar__xwhpZR9cabxsHQgb7Q.png"
+  },
+  {
+    "n": 48,
+    "name": "Glassmorphism",
+    "slug": "glassmorphism",
+    "desc": "Glassmorphism gives UI elements a frosted glass look \u2014 transparent with blur and depth. It\u2019s soft, futuristic, and layered.",
+    "core": "Frosted backgrounds, blur effects, semi-transparency, soft shadows, neon tints.",
+    "mood": "Futuristic, elegant, sleek. Common in apps, OS UI, or product landing pages.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*yLvPd28mq2bTq551wEzvdQ.png"
+  },
+  {
+    "n": 49,
+    "name": "Modular Typography",
+    "slug": "modular-typography",
+    "desc": "This style breaks type into grids or building blocks. It allows flexible systems and unique visual rhythm, often experimental in nature.",
+    "core": "Geometric letterforms, typographic grids, uniform spacing, variable layouts.",
+    "mood": "Structural, modern, playful. Works for posters, branding systems, and experimental typography.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*e8QZt5jnLuRh6EvOy2bBLA.png"
+  },
+  {
+    "n": 50,
+    "name": "Neo-Brutalism",
+    "slug": "neo-brutalism",
+    "desc": "A cleaner, more structured evolution of classic Brutalism. It retains raw honesty but adds better UI practices \u2014 useful in digital products that want to be bold yet functional.",
+    "core": "Bold colors, large type, stark layouts, minimal UI components, purposeful asymmetry.",
+    "mood": "Confident, bold, raw-yet-usable. Ideal for design portfolios, creative agency sites, or digital magazines.",
+    "img": "https://miro.medium.com/v2/resize:fit:700/1*dXI6DY9uQYnYrYah1goQZQ.png"
+  }
+]
